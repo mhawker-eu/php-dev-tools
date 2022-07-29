@@ -1,0 +1,19 @@
+{
+    "name": "mhawker-eu/php-dev-tools",
+    "description": "A set of dependencies and scripts to speed up bootstrapping a php project",
+    "type": "library",
+    "license": "AGPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "MhawkerEu\\PhpDevTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew Hawker",
+            "email": "mhawker-eu@github.example.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
